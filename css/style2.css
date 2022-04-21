@@ -1,0 +1,102 @@
+ body{
+   background-color:#ffffff ;
+ }  
+ .logo-docplanner{
+   width:250px ;
+ }
+ .header{
+   display:flex;
+   justify-content: space-around;
+   align-items: center;
+   position: sticky;
+ }
+ .titre1{
+  display: flex;
+  align-items: flex-start;
+  
+ }
+ .lead__logo{
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   width: 50px;
+ }
+ h1{
+   color:#7fc4ba ;
+ }
+ .les-paragraphes{
+   display: flex;
+  
+   justify-content: center;
+
+   color:#767c86 ;
+ }
+ .navbar{
+  color:#00b39b ;
+  display: inline;
+ justify-content: space-around;
+ text-decoration: none;
+
+ }
+ .section-one{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+  
+ }
+ a{
+   padding-bottom: 100px;
+   text-decoration: none;
+   color: #00b39b;
+   
+ }
+ .menu-nav{
+   display: flex;
+   justify-content: space-around;
+   width: 250px;
+   color: #00b39b;
+}
+.grid{
+  display: flex;
+justify-content: space-around;
+}
+.col1{
+  background-color:#00ccb1 ;
+  padding: 20px;
+  border-radius: 20px;
+  color:white;
+  width:250px;
+}
+.col2{
+  background-color:#3e83e0 ;
+  padding: 20px;
+  border-radius: 20px;
+  color:white;
+  width:250px;
+}
+.col3{
+  background-color:#1b2735 ;
+  padding: 20px;
+  border-radius: 20px;
+  color:white;
+  width:250px;
+}
+
+ .titre{
+   color:white;
+ }
+ .liste1{
+   display: flex;
+   flex-direction: row;
+  align-content: flex-start;
+  position: relative;
+  }
+ .liste{
+   display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+   padding: 100px;
+   flex-wrap: wrap;
+   align-content: center;
+   }
